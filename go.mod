@@ -1,4 +1,4 @@
-module github.com/tmsc4zht/qrgen
+module github.com/tmsc4zht/go-qrgen
 
 go 1.19
 
